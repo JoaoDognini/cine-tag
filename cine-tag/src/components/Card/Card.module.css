@@ -1,7 +1,8 @@
 .container {
     padding: 0 0 1rem 0;
-    margin-top: .5rem;
+    margin: 1rem;
     width: 17.5rem;
+    min-width: 17.5rem;
     background-color: var(--cinza);
     display: flex;
     flex-direction: column;
@@ -23,5 +24,4 @@
 .link {
     text-decoration: none;
     color: var(--preto);
-    text-align: center;
 }

@@ -1,4 +1,6 @@
 .container section {
-    margin: 2rem 20rem;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 2rem 15rem;
     text-align: center;
 }
